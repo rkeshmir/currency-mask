@@ -1,0 +1,41 @@
+{
+    "name": "currency-mask",
+    "version": "0.3.4",
+    "description": "An angulajs directive which makes a HTML input to be masked three by three as a currency value.",
+    "keywords": [
+        "angular",
+        "directive",
+        "currency",
+        "mask",
+        "separator"
+    ],
+    "main": "dist/currencyMask.js",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/rkeshmir/currency-mask.git"
+    },
+    "ignore": [
+        "bower.json",
+        "component.json",
+        "LICENSE",
+        "Makefile",
+        "package.json",
+        "README.md",
+        "test.js",
+        "builder",
+        "node_modules",
+        "components",
+        "bower_components"
+    ],
+    "license": "MIT",
+    "homepage": "https://github.com/rkeshmir/currency-mask",
+    "authors": [
+        "Reza Keshmir <rkeshmir@yahoo.com>"
+    ],
+    "moduleType": [
+        "node"
+    ],
+    "dependencies": {
+        "angular": "^1.4.0"
+    }
+}
